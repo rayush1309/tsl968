@@ -512,7 +512,7 @@ type of request:
 
 Click on Profile > Click on Setting > Developers Setting >Personal Access Token > Click on Generate new Token > Select all Checkboxes & Click on Generate
 
-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
+jjjkijkjkjkhjhnmhjjk
 
 -------------------------------------------------------------------------------------------------
 
