@@ -800,8 +800,8 @@ Commands :
 3.git add hello.txt	> To Start tracking some untracked Files/Folder  > This is 1st Step of Saving (This will not create new File)
 4.git commit -m "This is First Commit"
 5.Set Email id & name:
-	git config --global user.email "mpremchand99@gmail.com"
-	git config --global user.name "Premchand Vishwakarma" 
+	git config --global user.email "test99@gmail.com"
+	git config --global user.name "test.user" 
 6.git log	> To Know History of Commit
 7.git checkout idOfCommit    		> Going back in time Zone
 8.git checkout master			> To come to original time
